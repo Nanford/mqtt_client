@@ -1,5 +1,4 @@
 # mqtt_client
-individual project
 
 本工程用于MQTT和json相结合使用，测试数据接收和发送
 开发环境：Linux系统 Debian/ubuntu
